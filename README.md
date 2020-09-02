@@ -4,6 +4,12 @@
 
 ## Respositorio de Prueba
 Para aprender git
+## Pasos para subir cambios a github
+ 1.- Agregar cambios `git add.`
+ 2.- Hacer commit
+`git commit -m "MENSAJE"`
+ 3.- Subir cambios
+`git push -u origin`
 
 ## …or create a new repository on the command line
 
